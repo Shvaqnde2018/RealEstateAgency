@@ -1,0 +1,392 @@
+{
+  "Properties": [
+    {
+      "Id": "e14e1909-ba7f-4c5c-b98d-505234b0bfb3",
+      "Type": "Квартира",
+      "Area": 42,
+      "Address": "вул. Соборності, 14",
+      "District": "Центр",
+      "Landmark": "метро, парк, супермаркет",
+      "Rooms": 1,
+      "YearBuilt": 2015,
+      "Price": 35000,
+      "Status": 4,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:31:38.7649164+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        },
+        {
+          "ChangedAt": "2026-11-16T13:43:32.5606392+02:00",
+          "OldStatus": 1,
+          "NewStatus": 4,
+          "Comment": "Укладено угоду [5a66b6b2]"
+        }
+      ],
+      "PriceHistory": [
+        {
+          "ChangedAt": "2026-11-16T18:27:09.2674387+02:00",
+          "OldPrice": 35000,
+          "NewPrice": 350,
+          "Comment": "Зміна ціни з $35000 на $350"
+        },
+        {
+          "ChangedAt": "2026-11-16T19:00:07.4717641+02:00",
+          "OldPrice": 350,
+          "NewPrice": 35000,
+          "Comment": "Зміна ціни з $350 на $35000"
+        }
+      ]
+    },
+    {
+      "Id": "599cf606-4a7a-4bbb-baad-5976c402e101",
+      "Type": "Квартира",
+      "Area": 64,
+      "Address": "вул. Набережна, 8",
+      "District": "Поділ",
+      "Landmark": "метро, школа, набережна",
+      "Rooms": 2,
+      "YearBuilt": 2022,
+      "Price": 62000,
+      "Status": 4,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:32:19.1772504+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        },
+        {
+          "ChangedAt": "2026-11-16T14:41:59.9765247+02:00",
+          "OldStatus": 1,
+          "NewStatus": 4,
+          "Comment": "Укладено угоду [8cda6a8e]"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "8e96ffe7-173c-4e96-b28f-82976d97ccf4",
+      "Type": "Квартира",
+      "Area": 64,
+      "Address": "пр. Миру, 45",
+      "District": "Саксаганський",
+      "Landmark": "парк, лікарня, ринок",
+      "Rooms": 3,
+      "YearBuilt": 1998,
+      "Price": 68000,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:32:44.1390803+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": [
+        {
+          "ChangedAt": "2026-11-16T18:23:12.8092269+02:00",
+          "OldPrice": 62000,
+          "NewPrice": 68000,
+          "Comment": "Зміна ціни з $62000 на $68000"
+        }
+      ]
+    },
+    {
+      "Id": "39f5b72c-3102-46fb-81b1-1400fe050193",
+      "Type": "Квартира",
+      "Area": 38,
+      "Address": "пр. Поштовий, 22",
+      "District": "Центр",
+      "Landmark": "театр, кав\u0027ярня, зупинка",
+      "Rooms": 1,
+      "YearBuilt": 2018,
+      "Price": 400,
+      "Status": 2,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:33:24.7085634+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        },
+        {
+          "ChangedAt": "2026-11-16T13:33:29.0730277+02:00",
+          "OldStatus": 1,
+          "NewStatus": 2,
+          "Comment": "Зміна статусу через веб-інтерфейс"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "15b6ef5d-e619-462a-8c51-6cdc1ccac98f",
+      "Type": "Квартира",
+      "Area": 31,
+      "Address": "вул. Мусоргського, 19",
+      "District": "Центр",
+      "Landmark": "ТЦ, зупинка, спортзал",
+      "Rooms": 1,
+      "YearBuilt": 2021,
+      "Price": 26500,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:34:13.5467093+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "93a27590-88fe-4767-85aa-de30f55ba85a",
+      "Type": "Будинок",
+      "Area": 165,
+      "Address": "вул. Квіткова, 7",
+      "District": "Центрально-Міський",
+      "Landmark": "річка, ліс, школа",
+      "Rooms": 5,
+      "YearBuilt": 2019,
+      "Price": 125000,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:35:08.9986129+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "33ddd7b0-e3a7-4679-9981-71cbc88049dc",
+      "Type": "Будинок",
+      "Area": 95,
+      "Address": "вул. Садова, 31",
+      "District": "Довгинцівський",
+      "Landmark": "вокзал, озеро, магазин",
+      "Rooms": 3,
+      "YearBuilt": 2014,
+      "Price": 68000,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:35:44.9369605+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "b92f46ef-539c-451f-a2cc-c4d16afd4b00",
+      "Type": "Офіс",
+      "Area": 110,
+      "Address": "вул. Комерційна, 3",
+      "District": "Центр",
+      "Landmark": "метро, банк, парковка",
+      "Rooms": 4,
+      "YearBuilt": 2020,
+      "Price": 68000,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:36:12.7669738+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "0e50d969-1dab-44eb-b2ac-f6042ae41a7a",
+      "Type": "Офіс",
+      "Area": 54,
+      "Address": "вул. Ділова, 12",
+      "District": "Поділ",
+      "Landmark": "метро, бізнес-центр",
+      "Rooms": 2,
+      "YearBuilt": 2017,
+      "Price": 850,
+      "Status": 2,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:36:47.144972+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        },
+        {
+          "ChangedAt": "2026-11-16T13:36:54.5495359+02:00",
+          "OldStatus": 1,
+          "NewStatus": 2,
+          "Comment": "Зміна статусу через веб-інтерфейс"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "8348f019-e8e1-42ae-b1ab-3a969b69a092",
+      "Type": "Квартира",
+      "Area": 140,
+      "Address": "бул. Європейський, 1",
+      "District": "Центр",
+      "Landmark": "парк, ТРЦ, панорама",
+      "Rooms": 4,
+      "YearBuilt": 2024,
+      "Price": 196000,
+      "Status": 1,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:37:35.6308824+02:00",
+          "OldStatus": 1,
+          "NewStatus": 1,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "c933c7ef-bf65-48d0-9428-45ab41b00536",
+      "Type": "Квартира",
+      "Area": 37,
+      "Address": "вул Нова, 10",
+      "District": "Цетр",
+      "Landmark": "метро, парк",
+      "Rooms": 3,
+      "YearBuilt": 2000,
+      "Price": 400,
+      "Status": 2,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T13:48:31.8593427+02:00",
+          "OldStatus": 2,
+          "NewStatus": 2,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    },
+    {
+      "Id": "758474a2-fe13-425f-bcc8-3231fcd0071b",
+      "Type": "Квартира",
+      "Area": 45,
+      "Address": "Нова 15",
+      "District": "Центр",
+      "Landmark": "парк",
+      "Rooms": 3,
+      "YearBuilt": 2007,
+      "Price": 500,
+      "Status": 2,
+      "StatusHistory": [
+        {
+          "ChangedAt": "2026-11-16T14:40:15.3091577+02:00",
+          "OldStatus": 2,
+          "NewStatus": 2,
+          "Comment": "Початковий статус при створенні об\u0027єкта"
+        }
+      ],
+      "PriceHistory": []
+    }
+  ],
+  "Clients": [
+    {
+      "Id": "821b646d-e8a1-4348-950a-72f6e1aa387a",
+      "Name": "Клієнт-1",
+      "ContactInfo": "0987776984",
+      "Type": 1,
+      "Requests": [],
+      "SavedSearches": [
+        {
+          "Id": "d90508d3-1670-44cb-856b-d0f7910f3923",
+          "CreatedAt": "2026-11-16T13:40:02.0801298+02:00",
+          "Title": "Підписка 1",
+          "Filter": {
+            "Type": null,
+            "Address": null,
+            "MinPrice": null,
+            "MaxPrice": null,
+            "MinArea": null,
+            "MaxArea": null,
+            "District": null,
+            "Landmark": null,
+            "Rooms": null,
+            "MinYearBuilt": null,
+            "MaxYearBuilt": null,
+            "Status": null
+          }
+        }
+      ],
+      "Notifications": [
+        "[16.11.2026 14:40] Клієнту Клієнт-1 (0987776984): з\u0027явився новий об\u0027єкт за вашим пошуком \u0022Підписка 1\u0022 -\u003E Квартира, 45 м\u00B2, 2007 р., р-н Центр, $500",
+        "[16.11.2026 13:48] Клієнту Клієнт-1 (0987776984): з\u0027явився новий об\u0027єкт за вашим пошуком \u0022Підписка 1\u0022 -\u003E Квартира, 37 м\u00B2, 2000 р., р-н Цетр, $400"
+      ]
+    },
+    {
+      "Id": "d92b51f4-5822-40ac-86fc-490e93a69dc4",
+      "Name": "Власник-1",
+      "ContactInfo": "sdsfdf@gmail.com",
+      "Type": 2,
+      "Requests": [],
+      "SavedSearches": [],
+      "Notifications": []
+    },
+    {
+      "Id": "f2f320ea-46ed-4853-984b-64870a32c32b",
+      "Name": "Клієнт-2",
+      "ContactInfo": "232323",
+      "Type": 1,
+      "Requests": [],
+      "SavedSearches": [],
+      "Notifications": []
+    }
+  ],
+  "Agents": [
+    {
+      "Id": "cf5bceff-d121-4bff-9555-968e981380ce",
+      "Name": "Іван Іваненко",
+      "ExperienceYears": 5
+    },
+    {
+      "Id": "957cd77f-aa0e-4961-bc52-58ec5c847300",
+      "Name": "Андрій Коваленко",
+      "ExperienceYears": 8
+    },
+    {
+      "Id": "342b1db2-4f81-4ed5-bef7-d9e41b1385d2",
+      "Name": "цуцуцу",
+      "ExperienceYears": 5
+    }
+  ],
+  "Deals": [
+    {
+      "Id": "5a66b6b2-a4a8-4d5e-bf50-c7ebea944077",
+      "Date": "2026-11-16T13:43:32.5604259+02:00",
+      "PropertyId": "e14e1909-ba7f-4c5c-b98d-505234b0bfb3",
+      "AgentId": "cf5bceff-d121-4bff-9555-968e981380ce",
+      "ClientId": "821b646d-e8a1-4348-950a-72f6e1aa387a",
+      "TotalCost": 35000,
+      "Type": 1,
+      "CommissionPercent": 10
+    },
+    {
+      "Id": "8cda6a8e-ab18-4f4f-9620-1ed4f2a2c117",
+      "Date": "2026-11-16T14:41:59.9763769+02:00",
+      "PropertyId": "599cf606-4a7a-4bbb-baad-5976c402e101",
+      "AgentId": "cf5bceff-d121-4bff-9555-968e981380ce",
+      "ClientId": "f2f320ea-46ed-4853-984b-64870a32c32b",
+      "TotalCost": 450000,
+      "Type": 1,
+      "CommissionPercent": 5
+    }
+  ],
+  "Requests": []
+}
